@@ -1,6 +1,10 @@
 {
-  "latestVersion": "0.1.0",
-  "minVersion": "0.1.0",
+  "latestVersion": "0.2.0",
   "maintenance": false,
-  "message": "update available"
+  "message": "A new update is available",
+  "changelog": [
+    "Added server selection",
+    "Redesigned the home page",
+    "Improved the splash screen"
+  ]
 }
