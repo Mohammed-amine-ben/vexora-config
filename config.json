@@ -1,13 +1,13 @@
 {
-  "latestVersion": "0.4.0",
+  "latestVersion": "0.4.1",
   "maintenance": false,
-  "message": "VEXORA v0.4.0 is now available!",
+  "message": "VEXORA v0.4.1 is now available!",
   "changelog": [
-    "MovieDetail redesign",
-    "Feature-based architecture",
-    "Better performance & caching",
-    "Animated transitions",
-    "UI improvements",
-    "Bug fixes"
+    "Improved navigation experience",
+    "Search is now preserved when returning from Movie Details",
+    "Enhanced page transitions and layouts",
+    "Better UI responsiveness",
+    "Performance optimizations",
+    "Various bug fixes and improvements"
   ]
 }
