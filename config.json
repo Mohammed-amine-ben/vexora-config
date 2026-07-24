@@ -3,6 +3,14 @@
   "maintenance": false,
   "message": "VEXORA v0.4.1 is now available!",
   "releaseDate": "2026-07-24",
+  "changelog": [
+    "Improved navigation experience",
+    "Search is now preserved when returning from Movie Details",
+    "Enhanced page transitions and layouts",
+    "Better UI responsiveness",
+    "Performance optimizations",
+    "Various bug fixes and improvements"
+  ],
   "features": [
     {
       "category": "Improvements",
