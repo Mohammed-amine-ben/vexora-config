@@ -2,12 +2,31 @@
   "latestVersion": "0.4.1",
   "maintenance": false,
   "message": "VEXORA v0.4.1 is now available!",
-  "changelog": [
-    "Improved navigation experience",
-    "Search is now preserved when returning from Movie Details",
-    "Enhanced page transitions and layouts",
-    "Better UI responsiveness",
-    "Performance optimizations",
-    "Various bug fixes and improvements"
+  "releaseDate": "2026-07-24",
+  "features": [
+    {
+      "category": "Improvements",
+      "title": "Navigation & Search",
+      "items": [
+        "Search query and scroll state are now preserved when returning from Movie Details",
+        "Smoother page transitions and layout responsiveness"
+      ]
+    },
+    {
+      "category": "Performance",
+      "title": "Core Optimizations",
+      "items": [
+        "Faster UI rendering on lower-end devices",
+        "Reduced unnecessary re-renders during route navigation"
+      ]
+    },
+    {
+      "category": "Fixes",
+      "title": "Bug Fixes",
+      "items": [
+        "Fixed minor UI clipping issues on mobile screens",
+        "General stability and performance improvements"
+      ]
+    }
   ]
 }
