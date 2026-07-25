@@ -1,39 +1,39 @@
 {
-  "latestVersion": "0.4.1",
+  "latestVersion": "0.6.0",
   "maintenance": false,
-  "message": "VEXORA v0.4.1 is now available!",
-  "releaseDate": "2026-07-24",
+  "message": "VEXORA v0.6.0 is now available!",
+  "releaseDate": "2026-07-26",
   "changelog": [
-    "Improved navigation experience",
-    "Search is now preserved when returning from Movie Details",
-    "Enhanced page transitions and layouts",
-    "Better UI responsiveness",
-    "Performance optimizations",
-    "Various bug fixes and improvements"
+    "New About and What's New pages",
+    "Better automatic update checker",
+    "Fixed full-screen and padding issues",
+    "Overall performance and design improvements",
+    "General bug fixes for a smoother experience"
   ],
   "features": [
     {
-      "category": "Improvements",
-      "title": "Navigation & Search",
+      "category": "New Features",
+      "title": "New Pages & Updates",
       "items": [
-        "Search query and scroll state are now preserved when returning from Movie Details",
-        "Smoother page transitions and layout responsiveness"
+        "Added a new minimalist About page for Vexora",
+        "Easily see what's new with the new update screen",
+        "Better update checker to keep your app up to date"
       ]
     },
     {
-      "category": "Performance",
-      "title": "Core Optimizations",
+      "category": "Improvements",
+      "title": "Design & Performance",
       "items": [
-        "Faster UI rendering on lower-end devices",
-        "Reduced unnecessary re-renders during route navigation"
+        "Faster and more responsive user interface",
+        "Cleaner layout and better video playback experience"
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
       "items": [
-        "Fixed minor UI clipping issues on mobile screens",
-        "General stability and performance improvements"
+        "Fixed full-screen display and unwanted padding issues",
+        "General stability and performance fixes"
       ]
     }
   ]
