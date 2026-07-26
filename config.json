@@ -1,39 +1,31 @@
 {
-  "latestVersion": "0.6.0",
+  "latestVersion": "0.6.1",
   "maintenance": false,
-  "message": "VEXORA v0.6.0 is now available!",
+  "message": "VEXORA v0.6.1 is now available!",
   "releaseDate": "2026-07-26",
   "changelog": [
-    "New About and What's New pages",
-    "Better automatic update checker",
-    "Fixed full-screen and padding issues",
-    "Overall performance and design improvements",
-    "General bug fixes for a smoother experience"
+    "Fixed video player controls not responding",
+    "Removed native Edge context menu inside video player",
+    "Fixed invisible overlay blocking player interaction"
   ],
   "features": [
     {
       "category": "New Features",
       "title": "New Pages & Updates",
-      "items": [
-        "Added a new minimalist About page for Vexora",
-        "Easily see what's new with the new update screen",
-        "Better update checker to keep your app up to date"
-      ]
+      "items": []
     },
     {
       "category": "Improvements",
       "title": "Design & Performance",
-      "items": [
-        "Faster and more responsive user interface",
-        "Cleaner layout and better video playback experience"
-      ]
+      "items": []
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
       "items": [
-        "Fixed full-screen display and unwanted padding issues",
-        "General stability and performance fixes"
+        "Fixed video player buttons not responding due to invisible overlay",
+        "Removed native Edge context menu inside the video player",
+        "Fixed WebView2 blocking popup that caused player controls to freeze"
       ]
     }
   ]
