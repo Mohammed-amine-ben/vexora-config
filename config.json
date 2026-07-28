@@ -1,31 +1,45 @@
 {
-  "latestVersion": "0.6.1",
+  "latestVersion": "0.8.0",
   "maintenance": false,
-  "message": "VEXORA v0.6.1 is now available!",
-  "releaseDate": "2026-07-26",
+  "message": "VEXORA v0.8.0 is now available!",
+  "releaseDate": "2026-07-28",
   "changelog": [
-    "Fixed video player controls not responding",
-    "Removed native Edge context menu inside video player",
-    "Fixed invisible overlay blocking player interaction"
+    "Added Favorites and My List support across the app.",
+    "New Quick Access menu for faster actions.",
+    "Improved movie and series detail pages.",
+    "Better mobile experience with a new Bottom Sheet menu.",
+    "Redesigned selectors and action buttons.",
+    "Smoother animations and UI improvements.",
+    "Various bug fixes and performance improvements."
   ],
   "features": [
     {
       "category": "New Features",
-      "title": "New Pages & Updates",
-      "items": []
+      "title": "What's New",
+      "items": [
+        "Add movies and series to Favorites.",
+        "Save content to My List.",
+        "Quick Access menu on cards for faster actions.",
+        "Quick Tip popup to help discover hidden features."
+      ]
     },
     {
       "category": "Improvements",
-      "title": "Design & Performance",
-      "items": []
+      "title": "Better Experience",
+      "items": [
+        "Improved movie and series detail pages.",
+        "New mobile Bottom Sheet interface.",
+        "Cleaner selectors and action buttons.",
+        "Smoother animations throughout the app."
+      ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
       "items": [
-        "Fixed video player buttons not responding due to invisible overlay",
-        "Removed native Edge context menu inside the video player",
-        "Fixed WebView2 blocking popup that caused player controls to freeze"
+        "Fixed several UI issues.",
+        "Improved application responsiveness.",
+        "Various stability and performance improvements."
       ]
     }
   ]
