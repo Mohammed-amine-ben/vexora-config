@@ -1,7 +1,7 @@
 {
-  "latestVersion": "0.8.4",
+  "latestVersion": "0.8.5",
   "maintenance": false,
-  "message": "VEXORA v0.8.4 is now available!",
+  "message": "VEXORA v0.8.5 is now available!",
   "releaseDate": "2026-08-02",
   "changelog": [
     "New auto-updater system with silent background checks.",
