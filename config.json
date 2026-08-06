@@ -1,40 +1,45 @@
 {
-  "latestVersion": "0.8.5",
+  "latestVersion": "1.0.0",
   "maintenance": false,
-  "message": "VEXORA v0.8.5 is now available!",
-  "releaseDate": "2026-08-02",
+  "message": "VEXORA v1.0.0 is now available!",
+  "releaseDate": "2026-08-06",
   "changelog": [
-    "New auto-updater system with silent background checks.",
-    "Added crash handler for better error recovery.",
-    "New offline banner when connection is lost.",
-    "Fixed multiple UI design issues and overflow bugs.",
-    "Fixed content type detection issues."
+    "New Series Rating Graph page for TV series.",
+    "Advanced search with actor search, media filters, and sorting options.",
+    "Improved image caching for faster and sharper page loading.",
+    "Enhanced video player with smarter watch history and episode resume.",
+    "Multiple UI, animation, and navigation improvements."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Auto-updater with progress bar and install prompt.",
-        "Crash handler for unexpected errors.",
-        "Offline detection banner shown when connection is lost."
+        "Added the new Series Rating Graph page.",
+        "Advanced search with Movies, TV Shows, Actors, and new Sort By options.",
+        "Keyboard shortcuts for faster Sort By navigation.",
+        "Actor cards now open a search page for the selected actor."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Cleaner and more consistent UI across all screens.",
-        "Smoother layout rendering and reduced visual glitches."
+        "Improved image caching to reduce blurry images while pages load.",
+        "Enhanced video player and watch history with automatic season and episode resume.",
+        "Play and More Info buttons now work directly from the Home Hero Banner.",
+        "Improved Scroll to Top behavior and added a quick scroll button on detail pages.",
+        "Updated My List icon with a cleaner design."
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
       "items": [
-        "Fixed several UI design issues.",
-        "Fixed overflow bugs for mobiles",
-        "Fixed content type detection issues."
+        "Fixed duplicate episode animations while switching seasons.",
+        "Added a loading indicator during episode loading.",
+        "Fixed multiple UI, layout, and navigation issues.",
+        "Various performance and stability improvements."
       ]
     }
   ]
