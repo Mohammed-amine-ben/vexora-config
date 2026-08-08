@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.1.0",
   "maintenance": false,
-  "message": "VEXORA v1.0.0 is now available!",
-  "releaseDate": "2026-08-06",
+  "message": "VEXORA v1.1.0 is now available!",
+  "releaseDate": "2026-08-08",
   "changelog": [
     "New Series Rating Graph page for TV series.",
     "Advanced search with actor search, media filters, and sorting options.",
