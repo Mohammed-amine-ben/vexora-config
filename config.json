@@ -1,44 +1,52 @@
 {
-  "latestVersion": "1.1.0",
+  "latestVersion": "1.2.0",
   "maintenance": false,
-  "message": "VEXORA v1.1.0 is now available!",
-  "releaseDate": "2026-08-08",
+  "message": "VEXORA v1.2.0 is now available!",
+  "releaseDate": "2026-08-12",
   "changelog": [
-    "New Series Rating Graph page for TV series.",
-    "Advanced search with actor search, media filters, and sorting options.",
-    "Improved image caching for faster and sharper page loading.",
-    "Enhanced video player with smarter watch history and episode resume.",
-    "Multiple UI, animation, and navigation improvements."
+    "Redesigned the Series Rating Graph with a new IMDb rating source.",
+    "Added smoother animations and transitions across the app.",
+    "Added a new keyboard shortcuts system for faster navigation.",
+    "Improved Lists with a cleaner design and better interactions.",
+    "Improved News, Discover, and Search for a smoother experience.",
+    "Added pagination and improved loading states for News.",
+    "Added a new View More option for media rows.",
+    "Improved overall performance, responsiveness, and stability."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Added the new Series Rating Graph page.",
-        "Advanced search with Movies, TV Shows, Actors, and new Sort By options.",
-        "Keyboard shortcuts for faster Sort By navigation.",
-        "Actor cards now open a search page for the selected actor."
+        "Added a new global keyboard shortcuts system.",
+        "Added a dedicated Shortcuts section to view available shortcuts.",
+        "Redesigned the Series Rating Graph with IMDb ratings.",
+        "Added a new View More option to Media Rows.",
+        "Added smoother page transitions and loading animations."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Improved image caching to reduce blurry images while pages load.",
-        "Enhanced video player and watch history with automatic season and episode resume.",
-        "Play and More Info buttons now work directly from the Home Hero Banner.",
-        "Improved Scroll to Top behavior and added a quick scroll button on detail pages.",
-        "Updated My List icon with a cleaner design."
+        "Improved the Series Rating Graph with smoother transitions and animations.",
+        "Improved News with better navigation, loading states, and pagination.",
+        "Improved Search filters and transitions.",
+        "Improved Lists with a cleaner design and smoother interactions.",
+        "Improved animations and scrolling throughout the application.",
+        "Added a new optimized starry background.",
+        "Improved the overall responsiveness and visual experience."
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
       "items": [
-        "Fixed duplicate episode animations while switching seasons.",
-        "Added a loading indicator during episode loading.",
+        "Fixed duplicate content appearing in some sections.",
+        "Fixed animation issues when changing content.",
+        "Fixed trailer sections not displaying correctly in some cases.",
         "Fixed multiple UI, layout, and navigation issues.",
+        "Improved loading and scrolling behavior.",
         "Various performance and stability improvements."
       ]
     }
