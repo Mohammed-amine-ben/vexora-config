@@ -1,53 +1,35 @@
 {
-  "latestVersion": "1.2.0",
+  "latestVersion": "1.3.0",
   "maintenance": false,
-  "message": "VEXORA v1.2.0 is now available!",
-  "releaseDate": "2026-08-12",
+  "message": "VEXORA v1.3.0 is now available!",
+  "releaseDate": "2026-08-14",
   "changelog": [
-    "Redesigned the Series Rating Graph with a new IMDb rating source.",
-    "Added smoother animations and transitions across the app.",
-    "Added a new keyboard shortcuts system for faster navigation.",
-    "Improved Lists with a cleaner design and better interactions.",
-    "Improved News, Discover, and Search for a smoother experience.",
-    "Added pagination and improved loading states for News.",
-    "Added a new View More option for media rows.",
-    "Improved overall performance, responsiveness, and stability."
+    "Enhanced the Discover feature with advanced sorting and year filtering options.",
+    "Fixed media type detection issues for History cards."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Added a new global keyboard shortcuts system.",
-        "Added a dedicated Shortcuts section to view available shortcuts.",
-        "Redesigned the Series Rating Graph with IMDb ratings.",
-        "Added a new View More option to Media Rows.",
-        "Added smoother page transitions and loading animations."
+        "Added year filtering to the Discover page for more precise content searches.",
+        "Added advanced sorting options (Top Rated, Newest, Popularity) to Discover."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Improved the Series Rating Graph with smoother transitions and animations.",
-        "Improved News with better navigation, loading states, and pagination.",
-        "Improved Search filters and transitions.",
-        "Improved Lists with a cleaner design and smoother interactions.",
-        "Improved animations and scrolling throughout the application.",
-        "Added a new optimized starry background.",
-        "Improved the overall responsiveness and visual experience."
+        "Redesigned the Discover controls UI to perfectly fit the new filtering options.",
+        "Optimized the media grid layout for a seamless responsive experience without empty gaps."
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
       "items": [
-        "Fixed duplicate content appearing in some sections.",
-        "Fixed animation issues when changing content.",
-        "Fixed trailer sections not displaying correctly in some cases.",
-        "Fixed multiple UI, layout, and navigation issues.",
-        "Improved loading and scrolling behavior.",
-        "Various performance and stability improvements."
+        "Fixed a critical bug where TV shows in the History section were incorrectly detected as movies.",
+        "Fixed routing and navigation issues related to the History drag-and-drop cards."
       ]
     }
   ]
