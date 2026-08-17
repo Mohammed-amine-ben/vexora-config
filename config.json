@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.4.0",
+  "latestVersion": "1.4.1",
   "maintenance": false,
-  "message": "VEXORA v1.4.0 is now available!",
+  "message": "VEXORA v1.4.1 is now available!",
   "releaseDate": "2026-08-17",
   "changelog": [
     "Redesigned the Episodes experience with faster navigation and quick resume functionality.",
@@ -9,7 +9,10 @@
     "Improved performance and responsiveness on mobile devices, especially when browsing large media collections.",
     "Added Quick Navigation with new Watch Later, Watching Now, and Hated lists.",
     "Added a new News experience for viewing detailed upcoming and on-air content.",
-    "Improved animations, navigation, and overall responsiveness across the application."
+    "Improved animations, navigation, and overall responsiveness across the application.",
+    "Introduced tailored layout designs for both Desktop and Mobile for a better viewing experience.",
+    "Added support for the physical back button on mobile devices.",
+    "Fixed an issue where the update screen would appear repeatedly and added better error screens."
   ],
   "features": [
     {
@@ -21,7 +24,10 @@
         "Added Quick Navigation for faster access to your lists and collections.",
         "Added Watch Later, Watching Now, and Hated lists.",
         "Added a new News modal for viewing detailed upcoming and on-air content.",
-        "Improved keyboard shortcuts for faster navigation throughout the application."
+        "Improved keyboard shortcuts for faster navigation throughout the application.",
+        "Introduced specific layouts for Desktop and Mobile for a customized experience on any device.",
+        "Added a new dedicated Quick Navigation Page.",
+        "Added friendly error screens to safely guide you when something goes wrong."
       ]
     },
     {
@@ -33,7 +39,9 @@
         "Improved performance and responsiveness on mobile devices.",
         "Made Discover and Search faster and smoother when displaying large numbers of titles.",
         "Improved animations and transitions for a smoother browsing experience.",
-        "Improved application responsiveness when navigating between pages and content."
+        "Improved application responsiveness when navigating between pages and content.",
+        "Optimized menu animations in Discover and News to save your device's battery and resources.",
+        "Upgraded the internal navigation system for faster and smoother screen transitions."
       ]
     },
     {
@@ -44,7 +52,10 @@
         "Improved episode loading and navigation behavior.",
         "Improved backdrop image loading for a faster and smoother Hero experience.",
         "Improved navigation behavior to prevent unnecessary layout shifts.",
-        "Updated the VEXORA application logo."
+        "Updated the VEXORA application logo.",
+        "Added support for the physical back button on Android devices for easier navigation.",
+        "Enhanced overall user interface responsiveness across the app.",
+        "Improved the app's internal foundation for better stability and easier future updates."
       ]
     },
     {
@@ -55,7 +66,8 @@
         "Fixed navigation issues when moving between History episodes.",
         "Fixed performance issues affecting the scroll-to-top button.",
         "Fixed rendering issues when displaying large media collections.",
-        "Improved request handling in Discover for more reliable content loading."
+        "Improved request handling in Discover for more reliable content loading.",
+        "Fixed a bug that caused the app update prompt to show up repeatedly."
       ]
     }
   ]
