@@ -1,46 +1,37 @@
 {
-  "latestVersion": "1.6.0",
+  "latestVersion": "1.8.0",
   "maintenance": false,
-  "message": "VEXORA v1.6.0 is now available!",
+  "message": "VEXORA v1.8.0 is now available!",
   "releaseDate": "2026-08-21",
   "changelog": [
-    "Added Performance Mode settings to keep animations smooth on any device.",
-    "Introduced Time Management analytics to track your daily usage.",
-    "Added a new Media Gallery to view and download high-quality movie and show wallpapers."
+    "Introduced the interactive 'Pick For Me' to help you decide what to watch.",
+    "Added smooth loading animations and smart download notifications to the Media Gallery.",
+    "Upgraded your Collections view with a brand-new action bar and tab navigation."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Added Performance Mode with auto-detection to match your device's speed.",
-        "Added a Time Management dashboard with detailed charts to track your watch time.",
-        "Introduced a Media Gallery feature with instant image and poster downloading.",
-        "Added a new Discover header and interactive loading indicators."
-      ]
-    },
-    {
-      "category": "Performance",
-      "title": "Faster & Smoother",
-      "items": [
-        "Added automatic performance tuning based on device capability.",
-        "Smoother page transitions and animations across movies, search, and profiles.",
-        "Reduced power consumption and lag when browsing large content collections."
+        "Added 'Pick For Me' with interactive slot animations to pick a random movie or show.",
+        "Added elegant shimmer loading effects when opening the Media Gallery.",
+        "Added instant download notifications telling you exactly where your wallpapers are saved.",
+        "Enhanced your Collections view with a dynamic action bar and improved tab navigation."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Updated settings in the Profile section with new performance toggles.",
-        "Enhanced visual effects, glass styles, and mobile responsiveness.",
-        "Improved navigation speed when switching between app sections."
+        "Smarter automatic file naming when downloading wallpapers."
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
-      "items": []
+      "items": [
+        "Fixed an app crash in Update Checker when internet connection is lost or offline."
+      ]
     }
   ]
 }
