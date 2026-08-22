@@ -1,37 +1,28 @@
 {
-  "latestVersion": "1.8.0",
+  "latestVersion": "1.8.1",
   "maintenance": false,
-  "message": "VEXORA v1.8.0 is now available!",
-  "releaseDate": "2026-08-21",
+  "message": "VEXORA v1.8.1 is now available!",
+  "releaseDate": "2026-08-22",
   "changelog": [
-    "Introduced the interactive 'Pick For Me' to help you decide what to watch.",
-    "Added smooth loading animations and smart download notifications to the Media Gallery.",
-    "Upgraded your Collections view with a brand-new action bar and tab navigation."
+    "Added Discord Rich Presence integration to show what you are watching on your Discord profile."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Added 'Pick For Me' with interactive slot animations to pick a random movie or show.",
-        "Added elegant shimmer loading effects when opening the Media Gallery.",
-        "Added instant download notifications telling you exactly where your wallpapers are saved.",
-        "Enhanced your Collections view with a dynamic action bar and improved tab navigation."
+        "Added Discord Rich Presence to display your active watch status and show details on your Discord profile."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
-      "items": [
-        "Smarter automatic file naming when downloading wallpapers."
-      ]
+      "items": []
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
-      "items": [
-        "Fixed an app crash in Update Checker when internet connection is lost or offline."
-      ]
+      "items": []
     }
   ]
 }
