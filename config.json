@@ -1,44 +1,39 @@
 {
-  "latestVersion": "2.0.0",
+  "latestVersion": "2.1.0",
   "maintenance": false,
-  "message": "VEXORA v2.0.0 is now available!",
-  "releaseDate": "2026-08-25",
+  "message": "VEXORA v2.1.0 is now available!",
+  "releaseDate": "2026-08-29",
   "changelog": [
-    "Added Data Import & Export to easily back up and restore your watch history, watchlist, and settings.",
-    "Introduced Media Share Modal with QR code support and deep linking.",
-    "Redesigned Media Details Page with an improved layout, action buttons, and related content tabs.",
-    "Enhanced Discord Rich Presence with customizable display modes (Detailed or Minimal).",
-    "Added an Episode Chunk Selector to easily navigate long TV series seasons.",
-    "Boosted overall app performance and deletion operations speed."
+    "Added Spaces to share movies and shows with friends in real time.",
+    "Created profile creation with display names for a personalized experience.",
+    "Added quick access codes and links to easily invite friends.",
+    "Added badges to see who added each movie to a Space.",
+    "Fixed visual bugs with celebration animations."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Data Backup & Restore: Export your watch history, favorites, and settings to a JSON file and restore them anytime.",
-        "Share via QR Code & Direct Links: Easily share movies and series with friends using QR codes or smart deep links that open directly in the app.",
-        "Full Media Details Redesign: Enjoy a completely revamped movie and series details page featuring improved media overviews, quicker action buttons, and better posters.",
-        "Related Content & Collections: Discover more content directly from the media details page with brand-new tabs for Recommendations, Similar Titles, and Movie Collections.",
-        "Episode Chunk Navigation: Browse long seasons effortlessly using the new episode chunk selector.",
-        "Discord Rich Presence Modes: Customize how your watch status appears on Discord by choosing between Detailed or Minimal display mode."
+        "Spaces: Create shared rooms to collect and watch movies and series together with friends.",
+        "Profiles: Pick a display name so your friends know who you are in shared spaces.",
+        "Easy Invites: Join spaces instantly using simple codes or direct links.",
+        "Member Badges: See who added each item to your shared space."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Faster Deletion Operations: Optimized app performance and responsiveness when deleting or clearing items.",
-        "Enhanced Server Selector for smoother streaming source navigation.",
-        "Upgraded Settings layout and animation quality controls.",
-        "Fun celebration animations when clearing or deleting items."
+        "Cleaner layout and smoother navigation controls in Spaces."
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
       "items": [
-        "General visual fixes, smoother transitions, and layout adjustments for smaller screens."
+        "Fixed animation glitches when clearing items.",
+        "General performance and stability improvements."
       ]
     }
   ]
