@@ -1,36 +1,36 @@
 {
-  "latestVersion": "2.2.0",
-  "maintenance": false,
-  "message": "VEXORA v2.2.0 is here with Watch Party!",
-  "releaseDate": "2026-09-08",
-  "changelog": [
-    "Introducing Watch Party: Stream perfectly synced movies with friends.",
-    "Added 2 brand new streaming servers",
-    "Shared video controls: pause, play and everyone stays in sync.",
-    "Live notifications: easily see who paused or played the video."
-  ],
-  "features": [
-    {
-      "category": "New Features",
-      "title": "What's New",
-      "items": [
-        "Watch Party: Enjoy synced watching with your friends in real time.",
-        "New Servers: Added Vex and Syndra servers for more content sources.",
-        "Synced Controls: Play, pause, or skip forward together automatically.",
-        "Live Alerts: See who paused or played the stream directly on screen."
-      ]
-    },
-    {
-      "category": "Improvements",
-      "title": "Better Experience",
-      "items": [
-        "Smoother navigation and better stability in Spaces."
-      ]
-    },
-    {
-      "category": "Fixes",
-      "title": "Bug Fixes",
-      "items": []
-    }
-  ]
+  "latestVersion": "2.2.0",
+  "maintenance": false,
+  "message": "VEXORA v2.2.0 is here with Watch Party!",
+  "releaseDate": "2026-09-08",
+  "changelog": [
+    "Introducing Watch Party: Stream perfectly synced movies with friends.",
+    "Added 2 brand new streaming servers.",
+    "Shared video controls: pause, play and everyone stays in sync.",
+    "Live notifications: easily see who paused or played the video."
+  ],
+  "features": [
+    {
+      "category": "New Features",
+      "title": "What's New",
+      "items": [
+        "Watch Party: Enjoy synced watching with your friends in real time.",
+        "New Servers: Added Vex and Syndra servers for more content sources.",
+        "Synced Controls: Play, pause, or skip forward together automatically.",
+        "Live Alerts: See who paused or played the stream directly on screen."
+      ]
+    },
+    {
+      "category": "Improvements",
+      "title": "Better Experience",
+      "items": [
+        "Smoother navigation and better stability in Spaces."
+      ]
+    },
+    {
+      "category": "Fixes",
+      "title": "Bug Fixes",
+      "items": []
+    }
+  ]
 }
