@@ -1,41 +1,36 @@
 {
-  "latestVersion": "2.1.0",
-  "maintenance": false,
-  "message": "VEXORA v2.1.0 is now available!",
-  "releaseDate": "2026-08-29",
-  "changelog": [
-    "IMPORTANT: An app update is required to continue using VEXORA.",
-    "Added Spaces to share movies and shows with friends in real time.",
-    "Created profile creation with display names for a personalized experience.",
-    "Added quick access codes and links to easily invite friends.",
-    "Added badges to see who added each movie to a Space.",
-    "Fixed visual bugs with celebration animations."
-  ],
-  "features": [
-    {
-      "category": "New Features",
-      "title": "What's New",
-      "items": [
-        "Spaces: Create shared rooms to collect and watch movies and series together with friends.",
-        "Profiles: Pick a display name so your friends know who you are in shared spaces.",
-        "Easy Invites: Join spaces instantly using simple codes or direct links.",
-        "Member Badges: See who added each item to your shared space."
-      ]
-    },
-    {
-      "category": "Improvements",
-      "title": "Better Experience",
-      "items": [
-        "Cleaner layout and smoother navigation controls in Spaces."
-      ]
-    },
-    {
-      "category": "Fixes",
-      "title": "Bug Fixes",
-      "items": [
-        "Fixed animation glitches when clearing items.",
-        "General performance and stability improvements."
-      ]
-    }
-  ]
+  "latestVersion": "2.2.0",
+  "maintenance": false,
+  "message": "VEXORA v2.2.0 is here with Watch Party!",
+  "releaseDate": "2026-09-08",
+  "changelog": [
+    "Introducing Watch Party: Stream perfectly synced movies with friends.",
+    "Added 2 brand new streaming servers",
+    "Shared video controls: pause, play and everyone stays in sync.",
+    "Live notifications: easily see who paused or played the video."
+  ],
+  "features": [
+    {
+      "category": "New Features",
+      "title": "What's New",
+      "items": [
+        "Watch Party: Enjoy synced watching with your friends in real time.",
+        "New Servers: Added Vex and Syndra servers for more content sources.",
+        "Synced Controls: Play, pause, or skip forward together automatically.",
+        "Live Alerts: See who paused or played the stream directly on screen."
+      ]
+    },
+    {
+      "category": "Improvements",
+      "title": "Better Experience",
+      "items": [
+        "Smoother navigation and better stability in Spaces."
+      ]
+    },
+    {
+      "category": "Fixes",
+      "title": "Bug Fixes",
+      "items": []
+    }
+  ]
 }
