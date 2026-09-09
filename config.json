@@ -1,36 +1,40 @@
 {
-  "latestVersion": "2.2.4",
+  "latestVersion": "2.4.0",
   "maintenance": false,
-  "message": "VEXORA v2.2.4 is here with Watch Party!",
-  "releaseDate": "2026-09-08",
+  "message": "VEXORA v2.4.0 is available!",
+  "releaseDate": "2026-09-09",
   "changelog": [
-    "Introducing Watch Party: Stream perfectly synced movies with friends.",
-    "Added 2 brand new streaming servers.",
-    "Shared video controls: pause, play and everyone stays in sync.",
-    "Live notifications: easily see who paused or played the video."
+    "Added Live Chat: Chat with friends in real time while watching together.",
+    "Unread badges: Easily see when you have new messages when chat is closed.",
+    "Smart Host Transfer: Automatically assigns a new host if the original host leaves.",
+    "Fresh new design for Watch Party buttons, host badges, and Space cards."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Watch Party: Enjoy synced watching with your friends in real time.",
-        "New Servers: Added Vex and Syndra servers for more content sources.",
-        "Synced Controls: Play, pause, or skip forward together automatically.",
-        "Live Alerts: See who paused or played the stream directly on screen."
+        "Live Chat: Chat in real time with your friends during Watch Parties.",
+        "Message Alerts: Get passive badges for unread messages when the chat panel is closed.",
+        "Automatic Host Transfer: If the host leaves, another member is automatically assigned as the new host.",
+        "Mobile Friendly: Access chat easily on mobile with an overlay button matched to player controls."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Smoother navigation and better stability in Spaces."
+        "Redesigned Watch Party buttons and host badges for a cleaner look.",
+        "Upgraded Space cards with a live party indicator and smooth floating animations.",
+        "Easier chat experience with automatic scrolling and auto-focus when opened."
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
-      "items": []
+      "items": [
+        "Fixed background sync issues to ensure accurate playback for guests."
+      ]
     }
   ]
 }
