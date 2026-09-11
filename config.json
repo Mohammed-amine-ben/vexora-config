@@ -1,39 +1,39 @@
 {
-  "latestVersion": "2.4.0",
+  "latestVersion": "2.6.0",
   "maintenance": false,
-  "message": "VEXORA v2.4.0 is available!",
-  "releaseDate": "2026-09-09",
+  "message": "VEXORA v2.6.0 is live!",
+  "releaseDate": "2026-09-11",
   "changelog": [
-    "Added Live Chat: Chat with friends in real time while watching together.",
-    "Unread badges: Easily see when you have new messages when chat is closed.",
-    "Smart Host Transfer: Automatically assigns a new host if the original host leaves.",
-    "Fresh new design for Watch Party buttons, host badges, and Space cards."
+    "Seamless Video Progress: Your playback automatically saves and syncs across different video sources.",
+    "Real-Time Host Activity: See what movie or show the host is browsing in real time.",
+    "Smarter Watch Parties: Enjoy seamless reconnections and bulletproof party stability.",
+    "Polished UI & Animations: Fresh new animations for Watch Party buttons, banners, and member tags."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Live Chat: Chat in real time with your friends during Watch Parties.",
-        "Message Alerts: Get passive badges for unread messages when the chat panel is closed.",
-        "Automatic Host Transfer: If the host leaves, another member is automatically assigned as the new host.",
-        "Mobile Friendly: Access chat easily on mobile with an overlay button matched to player controls."
+        "Live Host Activity Banner: See what title the host is currently browsing or checking out before playing.",
+        "Watch Party History: Movies watched together are now automatically saved to your personal viewing history.",
+        "Visual Progress Bars: Track your watched progress directly on your media cards at a glance."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Redesigned Watch Party buttons and host badges for a cleaner look.",
-        "Upgraded Space cards with a live party indicator and smooth floating animations.",
-        "Easier chat experience with automatic scrolling and auto-focus when opened."
+        "Universal Progress Syncing: Seamless watch progress tracking across all streaming servers.",
+        "Redesigned Watch Party Buttons: Smoother animations, clear state transitions, and sleeker dropdowns.",
+        "Enhanced Member Details: Added improved profile badges and tooltips to see who added each title."
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
       "items": [
-        "Fixed background sync issues to ensure accurate playback for guests."
+        "Watch Party Reconnections: Fixed room disconnections and host transfer edge cases for a rock-solid experience.",
+        "Instant Data Refresh: Fixed background sync so your lists and details update immediately when you navigate."
       ]
     }
   ]
