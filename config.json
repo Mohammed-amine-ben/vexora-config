@@ -1,39 +1,41 @@
 {
-  "latestVersion": "2.6.0",
+  "latestVersion": "2.8.0",
   "maintenance": false,
-  "message": "VEXORA v2.6.0 is live!",
-  "releaseDate": "2026-09-11",
+  "message": "VEXORA is available!",
+  "releaseDate": "2026-09-16",
   "changelog": [
-    "Seamless Video Progress: Your playback automatically saves and syncs across different video sources.",
-    "Real-Time Host Activity: See what movie or show the host is browsing in real time.",
-    "Smarter Watch Parties: Enjoy seamless reconnections and bulletproof party stability.",
-    "Polished UI & Animations: Fresh new animations for Watch Party buttons, banners, and member tags."
+    "Explore by Studios & Platforms: Browse your favorite movies and shows by streaming service or studio right from the home page.",
+    "Lightning Fast Performance: Massive speed improvements! Lists and cards now load instantly and scroll smoother than ever.",
+    "Windows 11 Snap Layouts: Easily organize your screen by snapping the app to the edges of your display.",
+    "Leave Spaces: You can now easily leave a Space whenever you want."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Live Host Activity Banner: See what title the host is currently browsing or checking out before playing.",
-        "Watch Party History: Movies watched together are now automatically saved to your personal viewing history.",
-        "Visual Progress Bars: Track your watched progress directly on your media cards at a glance."
+        "Studios & Providers on Home: We've added dedicated sections on the Home page to discover content by your favorite platforms (Netflix, HBO, etc.) and studios (Marvel, DC, etc.).",
+        "Click to Discover: Click on any provider logo to instantly explore their entire catalog in the Discover page.",
+        "Windows 11 Snap Layouts Support: Multitasking made easy! Hover over the maximize button to perfectly snap the app alongside other windows.",
+        "Leave a Space: You now have the option to leave a Space you no longer want to be a part of."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Universal Progress Syncing: Seamless watch progress tracking across all streaming servers.",
-        "Redesigned Watch Party Buttons: Smoother animations, clear state transitions, and sleeker dropdowns.",
-        "Enhanced Member Details: Added improved profile badges and tooltips to see who added each title."
+        "Ultra-Smooth Performance: We've optimized how lists and cards load under the hood, removing lags and making the app feel incredibly fast.",
+        "Quick Access to Spaces: Your Spaces are now included in the quick navigation menu so you can jump into them instantly.",
+        "Smart Version Checker: Watch Parties now check if everyone is using a compatible app version before joining to prevent connection issues.",
+        "Better List Sorting: Your lists now perfectly order your items so the most recent ones are exactly where you expect them."
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
       "items": [
-        "Watch Party Reconnections: Fixed room disconnections and host transfer edge cases for a rock-solid experience.",
-        "Instant Data Refresh: Fixed background sync so your lists and details update immediately when you navigate."
+        "Guest Watch History: Fixed an issue where the watch history for guests in a party wasn't being tracked properly.",
+        "Stable TV Show Browsing: Fixed a Watch Party bug where the host browsing TV series details could interrupt the sync for everyone else."
       ]
     }
   ]
