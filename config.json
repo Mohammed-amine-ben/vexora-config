@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.8.0",
+  "latestVersion": "2.8.1",
   "maintenance": false,
   "message": "VEXORA is available!",
-  "releaseDate": "2026-09-16",
+  "releaseDate": "2026-09-17",
   "changelog": [
     "Explore by Studios & Platforms: Browse your favorite movies and shows by streaming service or studio right from the home page.",
     "Lightning Fast Performance: Massive speed improvements! Lists and cards now load instantly and scroll smoother than ever.",
@@ -35,7 +35,8 @@
       "title": "Bug Fixes",
       "items": [
         "Guest Watch History: Fixed an issue where the watch history for guests in a party wasn't being tracked properly.",
-        "Stable TV Show Browsing: Fixed a Watch Party bug where the host browsing TV series details could interrupt the sync for everyone else."
+        "Stable TV Show Browsing: Fixed a Watch Party bug where the host browsing TV series details could interrupt the sync for everyone else.",
+        "Watch Party Player: Fixed unresponsive player controls during Watch Parties"
       ]
     }
   ]
