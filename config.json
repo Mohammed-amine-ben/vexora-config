@@ -1,42 +1,33 @@
 {
-  "latestVersion": "2.8.2",
+  "latestVersion": "2.8.4",
   "maintenance": false,
   "message": "VEXORA is available!",
   "releaseDate": "2026-09-18",
   "changelog": [
-    "Explore by Studios & Platforms: Browse your favorite movies and shows by streaming service or studio right from the home page.",
-    "Lightning Fast Performance: Massive speed improvements! Lists and cards now load instantly and scroll smoother than ever.",
-    "Windows 11 Snap Layouts: Easily organize your screen by snapping the app to the edges of your display.",
-    "Leave Spaces: You can now easily leave a Space whenever you want."
+    "Chat Commands: You can now use slash commands in the Watch Party chat.",
+    "Chat Layout Fixes: Fixed layout issues in the chat box for better display.",
+    "Crash Fix: Fixed a bug that caused the app to crash randomly."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Studios & Providers on Home: We've added dedicated sections on the Home page to discover content by your favorite platforms (Netflix, HBO, etc.) and studios (Marvel, DC, etc.).",
-        "Click to Discover: Click on any provider logo to instantly explore their entire catalog in the Discover page.",
-        "Windows 11 Snap Layouts Support: Multitasking made easy! Hover over the maximize button to perfectly snap the app alongside other windows.",
-        "Leave a Space: You now have the option to leave a Space you no longer want to be a part of."
+        "Watch Party Chat Commands: Use slash commands directly in the chat to trigger actions easily."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Ultra-Smooth Performance: We've optimized how lists and cards load under the hood, removing lags and making the app feel incredibly fast.",
-        "Quick Access to Spaces: Your Spaces are now included in the quick navigation menu so you can jump into them instantly.",
-        "Smart Version Checker: Watch Parties now check if everyone is using a compatible app version before joining to prevent connection issues.",
-        "Better List Sorting: Your lists now perfectly order your items so the most recent ones are exactly where you expect them."
+        "Chat Layout Improvements: Cleaned up and fixed chat box layout issues so messages show correctly."
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
       "items": [
-        "Guest Watch History: Fixed an issue where the watch history for guests in a party wasn't being tracked properly.",
-        "Stable TV Show Browsing: Fixed a Watch Party bug where the host browsing TV series details could interrupt the sync for everyone else.",
-        "Watch Party Player: Fixed unresponsive player controls during Watch Parties"
+        "Fixed App Crash : Resolved a bug that caused the app to crash unexpectedly while loading screen elements."
       ]
     }
   ]
