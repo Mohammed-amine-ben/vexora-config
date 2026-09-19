@@ -1,33 +1,27 @@
 {
-  "latestVersion": "2.8.4",
+  "latestVersion": "2.8.6",
   "maintenance": false,
   "message": "VEXORA is available!",
-  "releaseDate": "2026-09-18",
+  "releaseDate": "2026-09-19",
   "changelog": [
-    "Chat Commands: You can now use slash commands in the Watch Party chat.",
-    "Chat Layout Fixes: Fixed layout issues in the chat box for better display.",
-    "Crash Fix: Fixed a bug that caused the app to crash randomly."
+    "Chat Effects: Express yourself with fun new visual effects triggered by chat commands.",
+    "New /users Command: Easily see everyone currently present in your space.",
+    "Command Fixes: Slash commands now work smoothly with usernames that have spaces or emojis."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Watch Party Chat Commands: Use slash commands directly in the chat to trigger actions easily."
+        "Interactive Chat Effects: Bring your chat to life with visual effects using new slash commands.",
+        "List Active Users: Use the new /users command to quickly view all members in your current space."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Chat Layout Improvements: Cleaned up and fixed chat box layout issues so messages show correctly."
-      ]
-    },
-    {
-      "category": "Fixes",
-      "title": "Bug Fixes",
-      "items": [
-        "Fixed App Crash : Resolved a bug that caused the app to crash unexpectedly while loading screen elements."
+        "Smarter Command Parsing: Slash commands now properly recognize usernames containing spaces and emojis."
       ]
     }
   ]
