@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.8.6",
+  "latestVersion": "2.8.5",
   "maintenance": false,
   "message": "VEXORA is available!",
   "releaseDate": "2026-09-19",
@@ -21,7 +21,14 @@
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Smarter Command Parsing: Slash commands now properly recognize usernames containing spaces and emojis."
+        "Smarter Command Parsing: Improved slash command processing for seamless chat interactions."
+      ]
+    },
+    {
+      "category": "Fixes",
+      "title": "Bug Fixes",
+      "items": [
+        "Username Support: Fixed an issue where slash commands failed when targeting usernames with spaces or emojis."
       ]
     }
   ]
