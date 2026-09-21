@@ -1,34 +1,35 @@
 {
-  "latestVersion": "2.8.6",
+  "latestVersion": "2.8.8",
   "maintenance": false,
-  "message": "VEXORA is available!",
-  "releaseDate": "2026-09-19",
+  "message": "VEXORA 2.8.8 is now available!",
+  "releaseDate": "2026-09-21",
   "changelog": [
-    "Chat Effects: Express yourself with fun new visual effects triggered by chat commands.",
-    "New /users Command: Easily see everyone currently present in your space.",
-    "Command Fixes: Slash commands now work smoothly with usernames that have spaces or emojis."
+    "New Visual Effects & GIFs: Express yourself with brand new effects .",
+    "Smart Effect Suggestions: Easily find and trigger your favorite effects as you type in chat.",
+    "Cleaner Chat Experience: Smoother WatchParty room joining and smarter floating notifications."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Interactive Chat Effects: Bring your chat to life with visual effects using new slash commands.",
-        "List Active Users: Use the new /users command to quickly view all members in your current space."
+        "New Effects & Animated GIFs: Celebrate with new visual effects (Zoro and Spider) and send animated GIF reactions directly in chat.",
+        "Multiple Reaction Stack: Send multiple likes and stack effects simultaneously for even bigger celebrations.",
+        "Smart Effect Suggestions: Typing `/effect` now shows an instant preview list of available effects as you type."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Smarter Command Parsing: Improved slash command processing for seamless chat interactions."
+        "Refined Chat Design: Visual upgrades to chat messages and suggestion menus for better readability."
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes",
       "items": [
-        "Username Support: Fixed an issue where slash commands failed when targeting usernames with spaces or emojis."
+        "Smarter Floating Notifications: On-screen preview badges now accurately filter out system messages and your own sent messages to reduce clutter."
       ]
     }
   ]
