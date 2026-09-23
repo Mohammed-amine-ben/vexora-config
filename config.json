@@ -1,35 +1,34 @@
 {
-  "latestVersion": "2.8.8",
+  "latestVersion": "3.0.0",
   "maintenance": false,
-  "message": "VEXORA 2.8.8 is now available!",
-  "releaseDate": "2026-09-21",
+  "message": "VEXORA 3.0.0 is now available!",
+  "releaseDate": "2026-09-23",
   "changelog": [
-    "New Visual Effects & GIFs: Express yourself with brand new effects .",
-    "Smart Effect Suggestions: Easily find and trigger your favorite effects as you type in chat.",
-    "Cleaner Chat Experience: Smoother WatchParty room joining and smarter floating notifications."
+    "Room Host Transfer: Easily pass Watch Party control to any friend with `/host`.",
+    "Secret Private Effects: Discover hidden visual reactions that keep chat surprises exciting.",
+    "Ultra-Smooth Animations: Enjoy faster, lag-free visual celebrations during big moments."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "New Effects & Animated GIFs: Celebrate with new visual effects (Zoro and Spider) and send animated GIF reactions directly in chat.",
-        "Multiple Reaction Stack: Send multiple likes and stack effects simultaneously for even bigger celebrations.",
-        "Smart Effect Suggestions: Typing `/effect` now shows an instant preview list of available effects as you type."
+        "Host Transfer Control: Hand over Watch Party leadership seamlessly using the new `/host <username>` command.",
+        "Secret & Private Effects: Trigger hidden reactions in chat that keep the full surprise secret from other viewers until they appear on screen."
       ]
     },
     {
       "category": "Improvements",
       "title": "Better Experience",
       "items": [
-        "Refined Chat Design: Visual upgrades to chat messages and suggestion menus for better readability."
+        "Smarter Command Suggestions: Typing `/host` now instantly suggests members in your room for quick host transfers."
       ]
     },
     {
-      "category": "Fixes",
-      "title": "Bug Fixes",
+      "category": "Performance",
+      "title": "Performance & Stability",
       "items": [
-        "Smarter Floating Notifications: On-screen preview badges now accurately filter out system messages and your own sent messages to reduce clutter."
+        "Ultra-Smooth Visual Reactions: Rebuilt animation engine for smoother particle celebrations and lighter memory usage."
       ]
     }
   ]
