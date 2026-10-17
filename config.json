@@ -1,35 +1,45 @@
 {
-  "latestVersion": "3.0.0",
+  "latestVersion": "3.2.0",
   "maintenance": false,
-  "message": "VEXORA 3.0.0 is now available!",
-  "releaseDate": "2026-09-23",
+  "message": "VEXORA 3.2.0 is here!",
+  "releaseDate": "2026-10-17",
   "changelog": [
-    "Room Host Transfer: Easily pass Watch Party control to any friend with `/host`.",
-    "Secret Private Effects: Discover hidden visual reactions that keep chat surprises exciting.",
-    "Ultra-Smooth Animations: Enjoy faster, lag-free visual celebrations during big moments."
+    "New BigPicture Mode: A cinematic full-screen PC interface designed for large displays and couch gaming.",
+    "Gamepad Support: Full controller integration for Xbox, PlayStation, and generic pads with dynamic alerts.",
+    "Image & Speed Upgrades: Optimized image blur rendering across standard components and smoother carousels."
   ],
   "features": [
     {
       "category": "New Features",
       "title": "What's New",
       "items": [
-        "Host Transfer Control: Hand over Watch Party leadership seamlessly using the new `/host <username>` command.",
-        "Secret & Private Effects: Trigger hidden reactions in chat that keep the full surprise secret from other viewers until they appear on screen."
+        "Full BigPicture Experience: A fresh cinematic full-screen interface featuring an animated startup screen, auto-playing trailer backdrops, and dedicated detail pages.",
+        "Gamepad Integration: Instant detection for Xbox, PlayStation, and generic controllers with visual status notifications, sound effects, and an on-screen virtual cursor.",
+        "BigPicture Navigation & Tools: Directional pad navigation, virtual keyboard search, episode jumping, server selection, and background route preloading for seamless screen switching."
       ]
     },
     {
       "category": "Improvements",
-      "title": "Better Experience",
+      "title": "Interface & Usability",
       "items": [
-        "Smarter Command Suggestions: Typing `/host` now instantly suggests members in your room for quick host transfers."
+        "Upgraded What's New Page: Redesigned release notes layout for clearer feature discovery, structured change categories, and smoother loading states.",
+        "Instant Sound Feedback: Real-time audio response for menu navigation, button presses, and notifications without delay.",
+        "Smarter Menu Controls: Smooth back button handling for menus, search overlays, and video detail popups.",
+        "Refined Layouts: Modernized top navigation bar for desktop and mobile, improved bottom bar controls, and clearer network status alerts."
       ]
     },
     {
       "category": "Performance",
-      "title": "Performance & Stability",
+      "title": "Standard Mode Upgrades",
       "items": [
-        "Ultra-Smooth Visual Reactions: Rebuilt animation engine for smoother particle celebrations and lighter memory usage."
+        "Enhanced Image Loading Performance: Rebuilt preview blur engine integrated across almost all standard components for faster rendering and reduced layout shifts.",
+        "Smoother Content Lists: Rebuilt carousels, media grids, and news feeds with clearer loading placeholders and status indicators."
       ]
+    },
+    {
+      "category": "Fixes",
+      "title": "Bug Fixes & System Stability",
+      "items": []
     }
   ]
 }
