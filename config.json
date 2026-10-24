@@ -14,7 +14,7 @@
       "category": "New Features",
       "title": "Expanded Anime Support",
       "items": [
-        "Smarter matching: Series like One Piece, Boruto and Dandadan, where TMDB and AniList count seasons differently, now open on the right episode. Rare mismatches can still happen.",
+        "Smarter matching: Series like One Piece, Boruto , where TMDB and AniList count seasons differently, now open on the right episode. Rare mismatches can still happen.",
         "Absolute episode numbering: Long-running anime are sorted by season while still pointing to the correct episode.",
         "Clear alerts: If an anime needs your attention, you now get a warning instead of a blank player.",
         "BigPicture support: Anime data and matching  work in BigPicture mode too."
