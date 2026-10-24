@@ -1,39 +1,40 @@
 {
-  "latestVersion": "3.2.0",
+  "latestVersion": "3.4.0",
   "maintenance": false,
-  "message": "VEXORA 3.2.0 is here!",
-  "releaseDate": "2026-10-17",
+  "message": "VEXORA 3.4.0 is out.",
+  "releaseDate": "2026-10-24",
   "changelog": [
-    "New BigPicture Mode: A cinematic full-screen PC interface designed for large displays and couch gaming.",
-    "Gamepad Support: Full controller integration for Xbox, PlayStation, and generic pads with dynamic alerts.",
-    "Image & Speed Upgrades: Optimized image blur rendering across standard components and smoother carousels."
+    "Anime that finds the right episode: Long-running series, multi-cour seasons and new releases now match the correct episode and server.",
+    "A new server picker for BigPicture: A cleaner layout made for the big screen, with a button to refresh servers anytime.",
+    "Watch Party on Discord: Friends can see when you're in a party and how many people are watching.",
+    "Faster everywhere: Desktop menus preload on hover."
   ],
   "features": [
     {
       "category": "New Features",
-      "title": "What's New",
+      "title": "Expanded Anime Support",
       "items": [
-        "Full BigPicture Experience: A fresh cinematic full-screen interface featuring an animated startup screen, auto-playing trailer backdrops, and dedicated detail pages.",
-        "Gamepad Integration: Instant detection for Xbox, PlayStation, and generic controllers with visual status notifications, sound effects, and an on-screen virtual cursor.",
-        "BigPicture Navigation & Tools: Directional pad navigation, virtual keyboard search, episode jumping, server selection, and background route preloading for seamless screen switching."
+        "Smarter matching: Series like One Piece, Boruto and Dandadan, where TMDB and AniList count seasons differently, now open on the right episode. Rare mismatches can still happen.",
+        "Absolute episode numbering: Long-running anime are sorted by season while still pointing to the correct episode.",
+        "Clear alerts: If an anime needs your attention, you now get a warning instead of a blank player.",
+        "BigPicture support: Anime data and matching  work in BigPicture mode too."
+      ]
+    },
+    {
+      "category": "New Features",
+      "title": "Discord Watch Party",
+      "items": [
+        "Live status: Your Discord activity shows when you're in a watch party.",
+        "Party size: Friends see how many people are watching with you."
       ]
     },
     {
       "category": "Improvements",
       "title": "Interface & Usability",
       "items": [
-        "Upgraded What's New Page: Redesigned release notes layout for clearer feature discovery, structured change categories, and smoother loading states.",
-        "Instant Sound Feedback: Real-time audio response for menu navigation, button presses, and notifications without delay.",
-        "Smarter Menu Controls: Smooth back button handling for menus, search overlays, and video detail popups.",
-        "Refined Layouts: Modernized top navigation bar for desktop and mobile, improved bottom bar controls, and clearer network status alerts."
-      ]
-    },
-    {
-      "category": "Performance",
-      "title": "Standard Mode Upgrades",
-      "items": [
-        "Enhanced Image Loading Performance: Rebuilt preview blur engine integrated across almost all standard components for faster rendering and reduced layout shifts.",
-        "Smoother Content Lists: Rebuilt carousels, media grids, and news feeds with clearer loading placeholders and status indicators."
+        "Redesigned server selector: A new layout for BigPicture that makes picking a server quicker.",
+        "Manual server refresh: A sync button in the server menu lets you check for new or updated servers whenever you want.",
+        "Faster navigation: Desktop menus start loading content as soon as you hover over them."
       ]
     },
     {
