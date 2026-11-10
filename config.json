@@ -1,46 +1,48 @@
 {
-  "latestVersion": "3.4.0",
+  "latestVersion": "3.6.0",
   "maintenance": false,
-  "message": "VEXORA 3.4.0 is out.",
-  "releaseDate": "2026-10-24",
+  "message": "VEXORA 3.6.0 is out.",
+  "releaseDate": "2026-11-10",
   "changelog": [
-    "Anime that finds the right episode: Long-running series, multi-cour seasons and new releases now match the correct episode and server.",
-    "A new server picker for BigPicture: A cleaner layout made for the big screen, with a button to refresh servers anytime.",
-    "Watch Party on Discord: Friends can see when you're in a party and how many people are watching.",
-    "Faster everywhere: Desktop menus preload on hover."
+    "Share from the menu: Send any title to someone straight from the context menu.",
+    "Default server: Choose one and VEXORA remembers it.",
+    "Delete confirmation: You now confirm before removing items from a list.",
+    "Fixes: Discover grid, history row, trailers and more."
   ],
   "features": [
     {
       "category": "New Features",
-      "title": "Expanded Anime Support",
+      "title": "Context Menu",
       "items": [
-        "Smarter matching: Series like One Piece, Boruto , where TMDB and AniList count seasons differently, now open on the right episode. Rare mismatches can still happen.",
-        "Absolute episode numbering: Long-running anime are sorted by season while still pointing to the correct episode.",
-        "Clear alerts: If an anime needs your attention, you now get a warning instead of a blank player.",
-        "BigPicture support: Anime data and matching  work in BigPicture mode too."
+        "Share: Send a title to someone straight from the menu.",
+        "Default server: Set your preferred server from the menu and it is saved."
       ]
     },
     {
       "category": "New Features",
-      "title": "Discord Watch Party",
+      "title": "Delete Confirmation",
       "items": [
-        "Live status: Your Discord activity shows when you're in a watch party.",
-        "Party size: Friends see how many people are watching with you."
+        "Confirm before deleting: A prompt appears before you remove an item from any list."
       ]
     },
     {
       "category": "Improvements",
       "title": "Interface & Usability",
       "items": [
-        "Redesigned server selector: A new layout for BigPicture that makes picking a server quicker.",
-        "Manual server refresh: A sync button in the server menu lets you check for new or updated servers whenever you want.",
-        "Faster navigation: Desktop menus start loading content as soon as you hover over them."
+        "Context menu now closes automatically when you scroll."
       ]
     },
     {
       "category": "Fixes",
       "title": "Bug Fixes & System Stability",
-      "items": []
+      "items": [
+        "Fixed the Discover grid layout and scrolling issues in the virtualized list.",
+        "Fixed the history row showing up empty after the app had been closed for a while.",
+        "Fixed high CPU usage caused by a trailer thumbnail that failed to load.",
+        "Fixed the context menu opening in the wrong place or off screen.",
+        "Fixed gallery downloads saving a broken image when the download failed.",
+        "Fixed a crash on titles with no related content."
+      ]
     }
   ]
 }
